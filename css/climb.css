@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  border: 0;
+  font-family: 'Press Start 2P', cursive;
+}
+
+body {
+  background-color: #222;
+  text-align: center;
+}
+
+canvas {
+  margin: 15px auto;
+}
+
+#mute {
+  font-size: 200%;
+  width: 60px;
+  margin: auto;
+  cursor: pointer;
+  user-select: none;
+}

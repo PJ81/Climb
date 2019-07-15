@@ -1,0 +1,69 @@
+// game
+export const WIDTH = 204;
+export const HEIGHT = 242;
+export const SCALE = 3;
+export const GRAVITY = 200;
+export const GODOWN = 100;
+export const BRICK_WID = 15;
+export const GEM_SIZE = 8;
+export const LEFT = 22;
+export const RIGHT = WIDTH - 22;
+
+
+// graphics
+export const M0L = 0;
+export const M1L = 1;
+export const M2L = 2;
+export const M0R = 3;
+export const M1R = 4;
+export const M2R = 47;
+export const MGR = 48;
+export const MGL = 49;
+export const BR0 = 5;
+export const BR1 = 6;
+export const BR2 = 7;
+export const BR3 = 8;
+export const BR4 = 9;
+export const FLOOR = 10;
+export const BACK = 11;
+export const SIDE = 12;
+export const GEM0 = 13;
+export const GEM1 = 14;
+export const GEM2 = 15;
+export const GEM3 = 16;
+export const GEM4 = 17;
+export const GEM5 = 18;
+export const GEM6 = 19;
+export const SHN0 = 20;
+export const SHN1 = 21;
+export const SHN2 = 22;
+export const SHN3 = 23;
+export const SHN4 = 24;
+export const SHN5 = 25;
+export const SPIKES = 26;
+export const E00 = 27;
+export const E01 = 28;
+export const E02 = 29;
+export const E03 = 30;
+export const E04 = 31;
+export const E10 = 32;
+export const E11 = 33;
+export const E12 = 34;
+export const E13 = 35;
+export const E14 = 36;
+export const E20 = 37;
+export const E21 = 38;
+export const E22 = 39;
+export const E23 = 40;
+export const E24 = 41;
+export const E30 = 42;
+export const E31 = 43;
+export const E32 = 44;
+export const E33 = 45;
+export const E34 = 46;
+
+//
+export const SHINE = 1;
+export const SMOKE = 2;
+export const TRAIL = 3;
+export const BIGSMOKE = 4;
